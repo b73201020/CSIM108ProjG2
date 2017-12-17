@@ -1,3 +1,8 @@
+#CSIM108ProjG2@pu.edu.tw
+
+包含 Smart-Mirror, face-detection from MS Azure
+
+
 # Smart-Mirror
 Raspberry powered mirror which can display the news, weather, and time.
 
